@@ -98,10 +98,3 @@ The project includes basic test configurations for verifying Sudoku validation a
 
 If you'd like to contribute to the project, feel free to fork the repository and create a pull request with your changes. When contributing, please ensure your code is well-documented and follows the project’s style conventions.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-By improving clarity and structure, this README provides a comprehensive guide to understanding and using the Sudoku game application, helping developers quickly set up, run, and contribute to the project.
